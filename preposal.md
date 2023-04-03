@@ -10,4 +10,4 @@ Dominique Bissey
 
 ## Do you have any questions of your own?
 
-TODO
+none currently
